@@ -36,6 +36,8 @@ The application captures video frames from the webcam and processes them to dete
 
 ![Screenshot 2024-04-25 122233](https://github.com/ErDevanshgupta/Virtual-Painter-Using-Hand-Tracking-Computer-Vision-/assets/110588013/1f10f28a-ef1c-4ad7-9d87-226c1f113814)
 
+* There is a PPT for Better explanation *
+
 
 ## Acknowledgements
 
