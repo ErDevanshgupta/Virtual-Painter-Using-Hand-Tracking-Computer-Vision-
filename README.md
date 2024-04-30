@@ -32,6 +32,9 @@ The application captures video frames from the webcam and processes them to dete
 - Press 'Esc' or 'q' to exit the application.
 
 ## Outputs
+![Screenshot 2024-04-25 122355](https://github.com/ErDevanshgupta/Virtual-Painter-Using-Hand-Tracking-Computer-Vision-/assets/110588013/64b330a4-95c0-4725-bbbf-2ba810988bd5)
+
+![Screenshot 2024-04-25 122233](https://github.com/ErDevanshgupta/Virtual-Painter-Using-Hand-Tracking-Computer-Vision-/assets/110588013/1f10f28a-ef1c-4ad7-9d87-226c1f113814)
 
 
 ## Acknowledgements
